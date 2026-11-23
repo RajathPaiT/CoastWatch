@@ -47,3 +47,4 @@ The team should select and cite an actual reference product from Product Hunt, A
 - `feat: add impact summary`
 - `docs: add design system and setup guide`
 - `fix: improve mobile report cards`
+Community-powered coastal pollution monitoring platform
